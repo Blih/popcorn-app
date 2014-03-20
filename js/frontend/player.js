@@ -107,7 +107,8 @@ window.SubtitleLanguages = {
   'polish'    : 'Polish',
   'estonian'  : 'Eesti',
   'italian'   : 'Italiano',
-  'danish'    : 'Dansk'
+  'danish'    : 'Dansk',
+  'korean'    : '한국어'
 };
 
 function videoError(e) {
